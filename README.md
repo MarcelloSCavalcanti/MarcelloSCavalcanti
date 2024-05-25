@@ -25,5 +25,5 @@ Ainda buscando conhecimento!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Minhas Constribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcelloSCavalcanti&repo=site_CRAFTMANSHIP_ART&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MarcelloSCavalcanti/site_CRAFTMANSHIP_ART)
+<!--## Minhas Constribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcelloSCavalcanti&repo=site_CRAFTMANSHIP_ART&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MarcelloSCavalcanti/site_CRAFTMANSHIP_ART)-->
