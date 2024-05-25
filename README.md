@@ -4,8 +4,8 @@
 #### Ao mesmo tempo estou procurando buscar conhecimentos com programação para me qualificar como desenvolvedor Full Stack Java.
 #### Procuro oportunidades na área de programação!
 - 👋 Hi, I’m @MarcelloSCavalcanti
-- 👀 I’m interested in Java, JavaScript and C sharp
-- 🌱 I’m currently learning JavaScript, AWS, Python
+- 👀 I’m interested in Java and AWS
+- 🌱 I’m currently learning JavaScript, AWS, C# and Python
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcello-cavalcanti-84871b1b3/)
