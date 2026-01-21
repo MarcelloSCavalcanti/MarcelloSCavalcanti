@@ -71,7 +71,7 @@ If you have a project where a motivated junior front‑end developer can add val
 
 ### 📫 Let’s connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcello%20Cavalcanti-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcello-cavalcanti-84871b1b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcello%20Cavalcanti-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcello-cavalcanti-84871b1b3)     
 [![GitHub](https://img.shields.io/badge/GitHub-MarcelloSCavalcanti-181717?style=flat&logo=github)](https://github.com/MarcelloSCavalcanti)
 
 
