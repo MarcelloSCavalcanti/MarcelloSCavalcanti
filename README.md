@@ -48,19 +48,6 @@ If you're looking for someone motivated, consistent and easy to work with, you�
   Small experiments where I practice UX microcopy and web content that explains things clearly without overwhelming the user.  
 
 
-
-Com
--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="4@"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width
-="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="4@"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java
-/java-original.svg" alt="Java" width="40" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
-/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="4@"/>
- -## GitHub Status
- -Ainda buscando conhecimento!
- -![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
--
- -<!--## Minhas Constribuições
- -[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcelloSCavalcanti&repo=site_CRAFTMANSHIP_ART&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=
-FFF)](https://github.com/MarcelloSCavalcanti/site_CRAFTMANSHIP_ART)-->
 > Want to see how I think about UI? Check the code, the structure and the way I name things in these projects.
 
 ---
@@ -101,3 +88,15 @@ If you have a project where a motivated junior front‑end developer can add val
     />
   </a>
 </div>
+
+-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="4@"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width
+="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="4@"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java
+/java-original.svg" alt="Java" width="40" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
+/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="4@"/>
+ -## GitHub Status
+ -Ainda buscando conhecimento!
+ -![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+-
+ -<!--## Minhas Constribuições
+ -[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcelloSCavalcanti&repo=site_CRAFTMANSHIP_ART&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=
+FFF)](https://github.com/MarcelloSCavalcanti/site_CRAFTMANSHIP_ART)-->
