@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Marcello 👋  
@@ -16,7 +15,7 @@ I turn ideas into clean, responsive interfaces using HTML, CSS and JavaScript.
 - Passionate about building interfaces that are simple to use, fast to load, and pleasant to look at.  
 - Currently sharpening my skills every day through real projects, code reviews and constant refactoring.
 
-If you're looking for someone motivated, consistent and easy to work with, you’re in the right place.  
+If you're looking for someone motivated, consistent and easy to work with, you're in the right place.  
 
 ---
 
@@ -66,10 +65,9 @@ If you're looking for someone motivated, consistent and easy to work with, you�
 - Small, incremental improvements rather than big, risky changes  
 - Always open to code reviews, suggestions and learning from more experienced developers  
 
-If you have a project where a motivated junior front‑end developer can add value, I’d be happy to talk.  
+If you have a project where a motivated junior front‑end developer can add value, I'd be happy to talk.  
 
 ---
-
 
 ### 📫 Let's Connect
 
@@ -81,11 +79,11 @@ If you have a project where a motivated junior front‑end developer can add val
 ### 📈 GitHub Stats
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)[attached_file:2]
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </div>
 
 ### 📊 Activity Graph
 
 <div align="center">
-  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=MarcelloSCavalcanti&theme=github-dark&hide_border=true&bg_color=0d1117&color=00d400&line=00d400&point=ffffff&area=true&hide_title=true)[web:29]
+  ![Activity](https://ghchart.rshah.org/MarcelloSCavalcanti)
 </div>
