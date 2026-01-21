@@ -76,6 +76,9 @@ If you have a project where a motivated junior front‑end developer can add val
   [![GitHub](https://img.shields.io/badge/GitHub-MarcelloSCavalcanti-181717?style=for-the-badge&logo=github)](https://github.com/MarcelloSCavalcanti)
 </div>
 
+<div align="center">
+  ![Chart](https://ghchart.rshah.org/MarcelloSCavalcanti)
+	
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -83,10 +86,5 @@ If you have a project where a motivated junior front‑end developer can add val
 </div>
 
 ### 📊 Activity Graph
-
-<div align="center">
-  ![Chart](https://ghchart.rshah.org/MarcelloSCavalcanti)
+	![Chart](https://ghchart.rshah.org/MarcelloSCavalcanti)
 </div>
-
-Stats: ![Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&show_icons=true&theme=radical&border_radius=10&card_width=500)
-Activity: ![Chart](https://ghchart.rshah.org/MarcelloSCavalcanti)
