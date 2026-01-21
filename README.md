@@ -70,29 +70,22 @@ If you have a project where a motivated junior front‑end developer can add val
 
 ---
 
-### 📫 Let’s connect
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/marcello-cavalcanti-84871b1b3">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-Marcello%20Cavalcanti-blue?style=for-the-badge&logo=linkedin" 
-      alt="LinkedIn - Marcello Cavalcanti" 
-      height="48"
-    />
-  </a>
-  <a href="https://github.com/MarcelloSCavalcanti">
-    <img 
-      src="https://img.shields.io/badge/GitHub-MarcelloSCavalcanti-181717?style=for-the-badge&logo=github" 
-      alt="GitHub - MarcelloSCavalcanti" 
-      height="48"
-    />
-  </a>
-</div>
-
- -![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF
-
-## 📊 Activity Graph
+### 📫 Let's Connect
 
 <div align="center">
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcelloSCavalcanti&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_title=true)[web:29]
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcello%20Cavalcanti-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marcello-cavalcanti)
+  [![GitHub](https://img.shields.io/badge/GitHub-MarcelloSCavalcanti-181717?style=for-the-badge&logo=github)](https://github.com/MarcelloSCavalcanti)
+</div>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)[attached_file:2]
+</div>
+
+### 📊 Activity Graph
+
+<div align="center">
+  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=MarcelloSCavalcanti&theme=github-dark&hide_border=true&bg_color=0d1117&color=00d400&line=00d400&point=ffffff&area=true&hide_title=true)[web:29]
 </div>
