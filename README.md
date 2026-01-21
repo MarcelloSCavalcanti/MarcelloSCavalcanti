@@ -90,3 +90,9 @@ If you have a project where a motivated junior front‑end developer can add val
 </div>
 
  -![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF
+
+## 📊 Activity Graph
+
+<div align="center">
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcelloSCavalcanti&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_title=true)[web:29]
+</div>
