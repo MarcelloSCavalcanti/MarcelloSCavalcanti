@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi, I'm Marcello 👋  
-**Junior Front‑End Developer in Dublin, Ireland**
+**Junior Front‑End Developer in Cork, Ireland**
 
 I turn ideas into clean, responsive interfaces using HTML, CSS and JavaScript.
 
