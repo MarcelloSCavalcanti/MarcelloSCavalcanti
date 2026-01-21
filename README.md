@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Marcello 👋  
-**Junior Front‑End Developer in Cork, Ireland**
+**Junior Front-End Developer in Cork, Ireland**
 
 I turn ideas into clean, responsive interfaces using HTML, CSS and JavaScript.
 
@@ -11,7 +11,7 @@ I turn ideas into clean, responsive interfaces using HTML, CSS and JavaScript.
 
 ### 👨‍💻 About me
 
-- Career transition from aviation into front‑end development, with a strong focus on detail and reliability.  
+- Career transition from aviation into front-end development, with a strong focus on detail and reliability.  
 - Passionate about building interfaces that are simple to use, fast to load, and pleasant to look at.  
 - Currently sharpening my skills every day through real projects, code reviews and constant refactoring.
 
@@ -38,7 +38,7 @@ If you're looking for someone motivated, consistent and easy to work with, you'r
 ### 📂 Featured projects
 
 - **Personal Cleaner Frontend**  
-  Responsive website for a cleaning service, built with HTML, CSS, JavaScript and Bootstrap, focusing on clear structure and mobile‑first design.  
+  Responsive website for a cleaning service, built with HTML, CSS, JavaScript and Bootstrap, focusing on clear structure and mobile-first design.  
 
 - **Landing Page Collection**  
   A set of landing pages designed to load fast and guide users to action with clean layouts and simple navigation.  
@@ -65,7 +65,7 @@ If you're looking for someone motivated, consistent and easy to work with, you'r
 - Small, incremental improvements rather than big, risky changes  
 - Always open to code reviews, suggestions and learning from more experienced developers  
 
-If you have a project where a motivated junior front‑end developer can add value, I'd be happy to talk.  
+If you have a project where a motivated junior front-end developer can add value, I'd be happy to talk.  
 
 ---
 
@@ -76,15 +76,14 @@ If you have a project where a motivated junior front‑end developer can add val
   [![GitHub](https://img.shields.io/badge/GitHub-MarcelloSCavalcanti-181717?style=for-the-badge&logo=github)](https://github.com/MarcelloSCavalcanti)
 </div>
 
-<div align="center">
-  ![Chart](https://ghchart.rshah.org/MarcelloSCavalcanti)
-	
 ### 📈 GitHub Stats
 
 <div align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&show_icons=true&theme=radical&border_radius=10&card_width=500)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&show_icons=true&theme=radical&border_radius=10)
 </div>
 
 ### 📊 Activity Graph
-	![Chart](https://ghchart.rshah.org/MarcelloSCavalcanti)
+
+<div align="center">
+  ![Chart](https://ghchart.rshah.org/MarcelloSCavalcanti)
 </div>
