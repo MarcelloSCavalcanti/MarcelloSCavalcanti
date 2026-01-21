@@ -79,11 +79,11 @@ If you have a project where a motivated junior front‑end developer can add val
 ### 📈 GitHub Stats
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&show_icons=true&theme=radical&border_radius=10&card_width=500)
 </div>
 
 ### 📊 Activity Graph
 
 <div align="center">
-  ![Activity](https://ghchart.rshah.org/MarcelloSCavalcanti)
+  ![Chart](https://ghchart.rshah.org/MarcelloSCavalcanti)
 </div>
