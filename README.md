@@ -73,19 +73,21 @@ If you have a project where a motivated junior front‑end developer can add val
 
 <div align="left">
 
-  <a href="https://www.linkedin.com/in/marcello-cavalcanti-84871b1b3" style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/marcello-cavalcanti-84871b1b3">
     <img 
       src="https://img.shields.io/badge/LinkedIn-Marcello%20Cavalcanti-blue?style=for-the-badge&logo=linkedin" 
       alt="LinkedIn - Marcello Cavalcanti" 
       height="32"
+				style="margin: 20px 0;"
     />
   </a>
 
-  <a href="https://github.com/MarcelloSCavalcanti" style="margin: 20px 0;">
+  <a href="https://github.com/MarcelloSCavalcanti">
     <img 
       src="https://img.shields.io/badge/GitHub-MarcelloSCavalcanti-181717?style=for-the-badge&logo=github" 
       alt="GitHub - MarcelloSCavalcanti" 
       height="32"
+				style="margin: 20px 0;"
     />
   </a>
 
