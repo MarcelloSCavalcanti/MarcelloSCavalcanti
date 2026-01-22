@@ -82,7 +82,9 @@ If you have a project where a motivated junior front-end developer can add value
 ![Marcello's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelloSCavalcanti&show_icons=true&theme=radical)
 </div>
 
-https://github-readme-streak-stats.herokuapp.com/?user=MarcelloSCavalcanti
+<div align="center">
+	[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcelloSCavalcanti&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+</div>
 
 ### 📊 Activity Graph
 
